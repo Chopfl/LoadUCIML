@@ -4,7 +4,7 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <StartObjectID>KrVsKp.dtsx</StartObjectID>
+        <StartObjectID>MainPackage.dtsx</StartObjectID>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
